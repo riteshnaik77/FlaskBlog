@@ -1,0 +1,9 @@
+markdown
+pandas
+numpy
+flask_mail
+flask_sqlalchemy
+markdown
+scikit-learn
+xgboost
+matplotlib
