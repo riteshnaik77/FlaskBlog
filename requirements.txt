@@ -7,3 +7,4 @@ markdown
 scikit-learn
 xgboost
 matplotlib
+pymysql
